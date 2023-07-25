@@ -1,5 +1,6 @@
-mermaidで記述できるダイアグラムのチュートリアル
+# mermaidで記述できるダイアグラムのチュートリアル
 
+引用元(https://qiita.com/konitech913/items/90f91687cfe7ece50020)
 今回は↓
 ## Sequence diagram
 を正しく使用するためのチュートリアルを説明していきます。
